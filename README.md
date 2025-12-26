@@ -27,5 +27,5 @@ The notebook covers the full fine-tuning workflow, including:
 
 ## Skills 
 
-
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=pytorch&logoColor=white&color=003865)
 
