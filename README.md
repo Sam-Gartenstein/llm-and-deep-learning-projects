@@ -29,5 +29,7 @@ The notebook covers the full fine-tuning workflow, including:
 
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=003865) ![](https://img.shields.io/badge/HuggingFace-informational?style=flat&logo=huggingface&logoColor=white&color=003865) ![](https://img.shields.io/badge/Colab-informational?style=flat&logo=googlecolab&logoColor=white&color=003865)
 
+## Coming Soon
 
+- Yelp Review Text Summarization (fine-tuning)
 
